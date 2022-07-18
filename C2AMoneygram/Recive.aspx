@@ -38,7 +38,7 @@
         <asp:TextBox ID="TxtSmistatore" Style="behavior: url(./../../webservice.htc)" TabIndex="-1" Height="0"
             Width="0" runat="server"></asp:TextBox>
         <asp:Label ID="Label2" Style="z-index: 104; left: 7px; position: absolute; top: 1px; text-align: center"
-                TabIndex="-1" runat="server" Height="20px" Width="612px" ForeColor="Blue" Font-Size="12pt" Font-Bold="True" Font-Names="Arial">Ricezione MoneyGram Web</asp:Label>
+                TabIndex="-1" runat="server" Height="20px" Width="612px" ForeColor="Blue" Font-Size="12pt" Font-Bold="True" Font-Names="Arial">Ricezione MoneyGram Web GitHub</asp:Label>
            <div   id="InputParam" style="z-index: 100; left: 5px; width: 614px; border-top-style: none; border-right-style: none; border-left-style: none; position: absolute; top: 25px; height: 328px; background-color: silver; border-bottom-style: none">
             <asp:Label ID="Label1" Style="z-index: 104; left: 80px; position: absolute;visibility: hidden; top: 118px" runat="server"
                 ForeColor="Black" Font-Size="12" Font-Bold="true" Font-Name="Arial">Cod. Riferimento Transazione:</asp:Label>
